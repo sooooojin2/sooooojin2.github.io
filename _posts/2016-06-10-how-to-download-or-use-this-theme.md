@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "Github page + Jekyll 블로그 만들기"
 comments: true
-description: "How to Download or Use This Theme"
+description: "깃허브 페이지와 지킬을 사용해 블로그 만들기"
 keywords: "dummy content"
 ---
 
 ### Use this theme as you main site
 
-- Download or fork the master branch of this theme repo into your GitHub account.
-- Rename the repo into something like `your_username.github.io`.
-- Edit `_config.yml` file to your preferences.
-- Edit `about.md` file for your About page.
-- Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
-- Now, visit `http://your_username.github.io` and you should see your blog running.
+- 새로운 repo 생성하기 `your_username.github.io`. 형식으로 만들어준다. 
+- 로컬에 새 폴더를 만들고 깃허브에서 새로 만든 repo 링크를 가져와 clone 해준다. 
+- 루비와 지킬을 설치하고 원하는 테마를 찾아 적용한다. 
+- 변경사항이 적용되는 것을 확인 후 샘플 파일들을 참고해 블로그를 작성한다. 
 
 ### Use this theme as a project page
 

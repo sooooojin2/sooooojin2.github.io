@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+안녕하세요!
+깃허브 블로그를 만들었습니다.
+열심히 기록 해보겠습니다. :) 
